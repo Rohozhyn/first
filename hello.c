@@ -1,9 +1,7 @@
-
-/*hello.c*/
+/*hrllo.c*/
 #include <stdio.h>
-
-void print_hello (void)
+print_hello(void)
 {
-    printf ("Hello World\n");
-    printf ("Goodby World\n");
+    printf("Hello World\n");
+
 }

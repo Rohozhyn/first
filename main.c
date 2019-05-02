@@ -1,10 +1,6 @@
-
 /*main.c*/
-#include "hello.h"
-
-// char print_hello();
-
-int main (void)
+int main(void)
 {
-    print_hello ();
+    print_hello();
+    return 0;
 }
